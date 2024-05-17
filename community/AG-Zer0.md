@@ -28,7 +28,7 @@ Minha Meta é me tornar um futuro Cientista/Analista de Dados
 - 🎯 Focused / Focado
 - 🎓 Easy learning / Fácil aprendizagem
 - ⏰ Flexibility / Flexibilidade
-- 📚 Self-taught
+- 📚 Self-taught / Autodidata
 
 ## 🔗 Links 
 
